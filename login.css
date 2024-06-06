@@ -1,0 +1,18 @@
+body{
+    background-color: #40adf5 !important;
+}
+
+.title{
+    margin-bottom: 2vw;
+    text-align: center;
+}
+
+.form-control{
+    width: 30% !important;
+    margin: auto;
+}
+
+.btn{
+    background-color: rgb(159, 182, 224) !important;
+    border-color: transparent;
+}
